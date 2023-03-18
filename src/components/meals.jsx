@@ -17,7 +17,6 @@ export const Meals = () => {
           <div>
             <span>VEGETARIAN</span>
             <p>Japanese Gyozas</p>
-            <div> </div>
           </div>
         </div>
       </div>
