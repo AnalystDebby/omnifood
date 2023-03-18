@@ -5,7 +5,7 @@ export const How = () => {
     <section>
       <Navbar />
       <div className="p-40">
-        <h2>how it works</h2>
+        <h2>How it works</h2>
         <p>Your daily dose of health in 3 simple steps</p>
       </div>
 
